@@ -63,7 +63,7 @@ set(SOURCE_FILES
   src/probmap_display.cpp
   src/aerialmap_display.cpp   
   src/multi_probmap_display.cpp
-  src/gamelikeinput.cpp
+  #src/gamelikeinput.cpp
   ${MOC_FILES}
 )
 
